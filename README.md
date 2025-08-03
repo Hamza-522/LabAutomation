@@ -65,16 +65,6 @@ Project/
 
 ---
 
-## 🌐 Live Preview
-
-🔗 **Live Demo (Static Files Only)**: [View on GitHub Pages](https://hamza-522.github.io/LabAutomation/)
-
-> ⚠ **Note:** This is a Laravel/PHP project.  
-> GitHub Pages only hosts **static files** (HTML, CSS, JS) and **cannot execute PHP** or Laravel's backend features.  
-> The live preview will not show full functionality — use a local server (XAMPP, Laragon) or deploy to a PHP-enabled hosting service to test full features.
-
----
-
 ## 🚀 Installation Guide
 
 1. **Clone the repository**
